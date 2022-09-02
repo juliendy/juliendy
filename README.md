@@ -17,7 +17,8 @@
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/TypeScript-2D79C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> 
 
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a> 
+<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
+<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /></a> 
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Web_Accessibility-59666C?style=for-the-badge&logoColor=FFFFFF" /></a>
