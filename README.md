@@ -1,5 +1,5 @@
 ### Hi 👋,  I'm  Julien
-<a href="https://mirayatech.vercel.app/"  target="_blank"> <img src="https://img.shields.io/badge/Website-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://twitter.com/home"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://juliendy.vercel.app/"  target="_blank"> <img src="https://img.shields.io/badge/Website-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://twitter.com/home"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br/> 
     
 ### Welcome to my GitHub!
