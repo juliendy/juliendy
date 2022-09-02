@@ -4,7 +4,7 @@
     
 ### Welcome to my GitHub!
 
-#### - I'm an aspiring Frontend Developer based in Berlin, Germany.
+#### - (aspiring) Frontend Developer based in Berlin, Germany.
 #### - I love programming, reading and hiking.  
 #### - Passion include, but not limited to: developing my desing sensibilites to create beautiful and clean UIs.<br/> <br/> 
 
