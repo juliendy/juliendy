@@ -1,5 +1,5 @@
 ### Hi 👋,  I'm  Julien
-<a href="https://juliendy.vercel.app/"  target="_blank"> <img src="https://img.shields.io/badge/Website-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://twitter.com/home"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/home"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br/> 
     
 ### Welcome to my GitHub!
@@ -19,7 +19,6 @@
 
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a> 
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Framer_Motion-8B2AEC?style=for-the-badge&logo=framer&logoColor=white" /></a>
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /></a> 
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Web_Accessibility-59666C?style=for-the-badge&logoColor=FFFFFF" /></a>
   <br/>
