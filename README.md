@@ -6,7 +6,7 @@
 
 #### - I'm an aspiring Frontend Developer based in Berlin, Germany.
 #### - I love programming, reading and hiking.  
-#### - Passion include, but not limited to: developing my desing sensibilites to create beautiful User Interfaces.<br/> <br/> 
+#### - Passion include, but not limited to: developing my desing sensibilites to create beautiful and clean UIs.<br/> <br/> 
 
 ### Languages and Tools:
  
