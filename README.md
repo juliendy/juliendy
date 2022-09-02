@@ -24,4 +24,5 @@
   <br/>
 <br/>
   <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliendy&theme=vue" />
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliendy&theme=blue-green)
