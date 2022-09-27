@@ -4,9 +4,9 @@
     
 ### Welcome to my GitHub!
 
-#### - (aspiring) Frontend Developer based in Berlin, Germany.
+#### - Junior Frontend Developer based in Berlin, Germany.
 #### - I love programming, reading and hiking.  
-#### - Passion include, but not limited to: Vue.js, Typescript, React and creating beautiful and clean UIs.<br/> <br/> 
+#### - Passion include, but not limited to: Typescript, React, NextJs and creating beautiful and clean UIs.<br/> <br/> 
 
 ### Languages and Tools:
  
