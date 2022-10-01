@@ -1,10 +1,11 @@
 ### Hi 👋
    
 ### I'm Julien, a Berlin-based frontend web developer with a background in humanoria
-- Looking for my first job as a web developer 🔭
+- Looking for my first job as a web developer 
 - Currently working on a app, Pilzewetter, that calculates the occurrence of mushrooms and enables mushroom predictions for pickers.
-- I love programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
-- Passion include, but not limited to: Typescript, React, NextJs and creating beautiful and clean UIs.<br/>
+- Forever practicing and learning TypeScript and JavaScript.
+- Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
+- Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
 <a href="#"  target="_blank"> <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 <a href="#"  target="_blank"><img src="https://img.shields.io/badge/CSS3-0070BB?style=for-the-badge&logo=css3&logoColor=white" /> <a/>
