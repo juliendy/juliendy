@@ -1,6 +1,6 @@
 ### Hi 👋
    
-### I'm Julien, a Berlin-based frontend web developer with a background in humanoria
+### I'm Julien, a Berlin-based Junior Frontend Web Developer with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
 - Currently working on a app, Pilzewetter, that calculates the occurrence of mushrooms and enables mushroom predictions for pickers.
 - Forever practicing and learning TypeScript and JavaScript.
