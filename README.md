@@ -3,8 +3,8 @@
 ### I'm Julien, a Berlin-based Junior Frontend Web Developer with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
 - Currently working on an app, Pilzewetter, that calculates the occurrence of mushrooms and enables mushroom predictions for pickers.
+- Also working my way through the Frontend Career Path [curriculum](https://scrimba.com/learn/frontend) at Scrimba. 
 - Forever learning TypeScript and JavaScript.
-- Currently working my way through the Frontend Career Path [curriculum](https://scrimba.com/learn/frontend) at Scrimba. 
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
