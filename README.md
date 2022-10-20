@@ -2,7 +2,7 @@
    
 ### I'm Julien, a Berlin-based Junior Frontend Web Developer with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
-- Currently working on a new e-commerce project, a complete re-design of the Apple website, with Next.js Typescript, Sanity.io and Stripe API.
+- Currently working on a new personal homepage with a blog feature using TypeScript, React, Vite, Framer Motion and Chakra-Ui
 - Also working my way through the Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba. 
 - Forever learning TypeScript and JavaScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
