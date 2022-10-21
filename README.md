@@ -8,24 +8,35 @@
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white" /></a> 
-<a href="#"  target="_blank"><img src="https://img.shields.io/badge/CSS3-0070BB?style=for-the-badge&logo=css3&logoColor=white" /> <a/>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 <br/>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/TypeScript-2D79C6?style=for-the-badge&logo=typescript&logoColor=white" /></a> 
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <br/>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB2" /></a>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" /></a>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <br/>
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=white" /></a> 
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Web_Accessibility-59666C?style=for-the-badge&logoColor=FFFFFF" /></a>
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-59666C?style=for-the-badge&logoColor=FFFFFF")
+<br/>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   <br/>
   ### Currently learning:
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Testing-CA4245?style=for-the-badge&logo=jest&logoColor=white" />
-<a href="#"  target="_blank"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
   <br/>
   ## Social Media
   <a href="https://twitter.com/eggsandbread"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
