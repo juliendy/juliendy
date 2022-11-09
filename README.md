@@ -4,6 +4,7 @@
 - Looking for my first job as a web developer 
 - Currently working on: new personal homepage with a blog feature using TypeScript, React, Vite, Framer Motion and Chakra-Ui
    + Tasca (medieval latin for Task), a bug and issue tracker app where users can create projects, add tasks and comments, view reports, and more.
+   + myndgian (currently in process of idealising into code), a kind of a point based system to-do-app.
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba. 
 - Forever learning TypeScript and JavaScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
