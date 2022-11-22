@@ -3,8 +3,7 @@
 ### I'm Julien, a Berlin-based Junior Frontend Web Developer with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
 - Currently working on: new personal homepage with a blog feature using TypeScript, React, Vite, Framer Motion and Chakra-Ui
-   + Tasca (medieval latin for Task), a bug and issue tracker app where users can create projects, add tasks and comments, view reports, and more.
-   + myndgian, a kind of an advanced point based system to-do-app done in pure JavaScript.
+   + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba. 
 - Forever learning TypeScript and JavaScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
