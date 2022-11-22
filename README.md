@@ -2,7 +2,8 @@
    
 ### I'm Julien, a Berlin-based Junior Frontend Web Developer with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
-- Currently working on: new personal homepage with a blog feature using TypeScript, React, Vite, Framer Motion and Chakra-Ui
+- Currently working on: 
+   + Personal homepage with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
    + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba. 
 - Forever learning TypeScript and JavaScript.
