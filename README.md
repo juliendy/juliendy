@@ -6,7 +6,7 @@
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
    + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba. 
-   + A new landing page using Threejs. Previous: ([Three-Graces](https://github.com/juliendy/threejs-graces) a mini project created with boiler code)
+   + A new landing page using Threejs. Previous: ([Three-Graces](https://github.com/juliendy/threejs-graces)) a mini project created with boiler code
 - Forever learning TypeScript and JavaScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
