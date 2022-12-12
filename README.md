@@ -7,7 +7,7 @@
    + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba + [JavaScriptmas 2022](https://scrimba.com/learn/javascriptmas)
    + A new landing page using Threejs. Previous: ([Three-Graces](https://github.com/juliendy/threejs-graces)) a mini project created with boiler code
-   + E-commerce page, Tyche, to enhance portfolio more
+   + E-commerce page, [Tyche](https://github.com/juliendy/Tyche), to enhance portfolio more
 - Forever learning TypeScript and JavaScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
