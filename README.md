@@ -42,6 +42,7 @@
 ![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
   <br/>
   ### Currently learning:
+![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=)
   <br/>
   ## Social Media
