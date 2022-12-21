@@ -51,7 +51,3 @@
   ## Contact details
   <a href="https://www.linkedin.com/in/julien-yasar-396911235/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:julien.yasar@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="email" height="30" width="40" /></a>
-   <br/>
-<br/> 
-  <br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliendy&theme=blue-white)
