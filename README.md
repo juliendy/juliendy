@@ -7,7 +7,7 @@
    + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba + [JavaScriptmas 2022](https://scrimba.com/learn/javascriptmas)
    + Svelte project: SvelteKit was announced and I decided to start learning it. Project is currently a work in progress.
-- Learning TypeScript and Svelte.
+- Keen interest in anything with TypeScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
