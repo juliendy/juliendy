@@ -6,7 +6,7 @@
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
    + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba + [JavaScriptmas 2022](https://scrimba.com/learn/javascriptmas)
-   + Svelte project: SvelteKit was announced and I decided to start learning it. Project is currently a work in progress.
+   + Started learning Svelte: Proj. 1: [Travelling Salesman](https://travelling-salesman.netlify.app/). Proj. 2 (In progress) [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) 
 - Keen interest in anything with TypeScript.
 - Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
