@@ -4,7 +4,7 @@
 - Looking for my first job as a web developer 
 - Currently working on: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
-   + Testing-Framework repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
+   + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) at Scrimba + [JavaScriptmas 2022](https://scrimba.com/learn/javascriptmas)
    + Started learning Svelte: Proj. 1: [Travelling Salesman](https://travelling-salesman.netlify.app/). Proj. 2 (In progress) [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) 
 - Keen interest in anything with TypeScript.
