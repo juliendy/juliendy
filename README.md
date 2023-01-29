@@ -8,7 +8,7 @@
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
    + Started learning Svelte: Proj. 1: [Travelling Salesman](https://travelling-salesman.netlify.app/). Proj. 2: [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) 
 - Keen interest in anything with TypeScript.
-- Hobbies: programming 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
+- Hobbies: webdev 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
