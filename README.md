@@ -2,7 +2,7 @@
    
 ### I'm Julien, a Junior Full Stack Web Developer based in Berlin with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
-- Current feats: 
+- Current long-term projects: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
    + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
