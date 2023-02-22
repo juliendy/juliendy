@@ -8,7 +8,7 @@
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
    + Projects with Svelte: 1: [Travelling Salesman](https://travelling-salesman.netlify.app/) // 2: [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser)
    + Working on [Mini-projects](https://github.com/juliendy/mini-projects). 1: Battleship game (in-progress)
-- Keen interest in anything with TypeScript.
+- Keen interest in anything with SvelteKit+TypeScript.
 - Hobbies: webdev 👾, reading 📚, hiking 🥾, mushroom picking 🍄 and bird watching 🦜.  
 - Passions and goals with everything I do is to create beautiful and clean user interfaces.<br/>
 ### Languages and Tools:
