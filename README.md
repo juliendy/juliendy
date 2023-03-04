@@ -30,6 +30,7 @@
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 <br/>
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=000000&logo=Three.js&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
@@ -47,7 +48,6 @@
   ### Currently learning:
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
   <br/>
   ## Social Media
   <a href="https://twitter.com/eggsandbread"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
