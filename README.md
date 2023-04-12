@@ -3,7 +3,7 @@
 ### I'm Julien, a Junior Full Stack Web Developer based in Berlin with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
 - Current long-term projects: 
-   + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature using TypeScript, React, Vite, Framer Motion etc.,
+   + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature
    + First big project: Open source API, [Similarity API](https://github.com/juliendy/similarity-api), where users can compare how similar two text are.
    + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
