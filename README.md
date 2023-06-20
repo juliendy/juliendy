@@ -4,7 +4,7 @@
 - Looking for my first job as a web developer 
 - Current long-term projects: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature
-   + First big project: Open source API, [Similarity API](https://github.com/juliendy/similarity-api), where users can compare how similar two text are.
+   + First big project: Forum website to share ideas among friends, [breadit](https://github.com/juliendy/breadit).
    + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
    + Projects with Svelte: 1: [Travelling Salesman](https://travelling-salesman.netlify.app/) // 2: [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) // 3: [calc.bot](https://github.com/juliendy/calcbot)
