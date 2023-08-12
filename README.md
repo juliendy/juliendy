@@ -4,7 +4,7 @@
 - Looking for my first job as a web developer 
 - Current long-term projects: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature
-   + First big project: Forum website to share ideas among friends, [breadit](https://github.com/juliendy/breadit).
+   + Currently learning Swift / iOS development. More to come..
    + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
    + Projects with Svelte: 1: [Travelling Salesman](https://travelling-salesman.netlify.app/) // 2: [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) // 3: [calc.bot](https://github.com/juliendy/calcbot)
@@ -34,12 +34,14 @@
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
+![Zod](https://img.shields.io/static/v1?style=for-the-badge&message=Zod&color=4169E1&logo=&logoColor=FFFFFF&label=)
 <br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-59666C?style=for-the-badge&logoColor=FFFFFF")
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
   <br/>
   ### Testing Frameworks:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -47,8 +49,7 @@
 ![Playwright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=)
   <br/>
   ### Currently learning:
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![Zod](https://img.shields.io/static/v1?style=for-the-badge&message=Zod&color=4169E1&logo=&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
   <br/>
   ## Social Media
   <a href="https://twitter.com/eggsandbread"  target="_blank"> <img src="https://img.shields.io/badge/Twitter-0088FF?style=for-the-badge&logo=Google-chrome&logoColor=white" /></a>  <a href="https://www.instagram.com/pratertell/"  target="_blank"><img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" /></a>
