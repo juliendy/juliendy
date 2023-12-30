@@ -1,6 +1,6 @@
 ### Hi 👋
    
-### I'm Julien, a Junior Full Stack Web Developer based in Berlin with a background in Humanoria and Literature.
+### I'm Julien, Full Stack Web Developer based in Berlin with a background in Humanoria and Literature.
 - Looking for my first job as a web developer 
 - Current long-term projects: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature
