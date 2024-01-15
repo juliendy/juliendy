@@ -4,7 +4,7 @@
 - Looking for my first job as a web developer 
 - Current long-term projects: 
    + Personal homepage ([juliendy](https://juliendy.dev)) with a blog feature
-   + Currently learning Swift / iOS development. More to come..
+   + Currently learning Swift / iOS development.
    + [Testing-Framework](https://github.com/juliendy/testing-framework) repo: Working with TypeScript, Jest and Playwright. Feedback welcome!
    + The Frontend Career Path ([curriculum](https://scrimba.com/learn/frontend)) on Scrimba.
    + Projects with Svelte: 1: [Travelling Salesman](https://travelling-salesman.netlify.app/) // 2: [ClimateVisualiser](https://github.com/juliendy/ClimateVisualiser) // 3: [calc.bot](https://github.com/juliendy/calcbot)
